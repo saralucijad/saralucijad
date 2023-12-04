@@ -2,7 +2,7 @@
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software or smth like that...
+Marketing graduate currently working as an Executive Assistant at Daytona.io. Through my work, I developed skills in leading, presenting, event management, and community management. Currently trying to learn some basics of coding to help out my colleagues in Daytona and to finally understand what the floof are they talking about on those tech meetings.🥲
 
 📝 &nbsp;**Latest Daytona Blog Posts**
 <!-- BLOG-POST-LIST:START -->
